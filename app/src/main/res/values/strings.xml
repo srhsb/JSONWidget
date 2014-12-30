@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CriW</string>
+    <string name="appwidget_text">Cricket Companion</string>
+    <string name="teamA">PK</string>
+    <string name="teamB">IN</string>
+    <string name="vr">vr</string>
+    <string name="Live">Live</string>
+    <string name="scoreTeamA">340</string>
+    <string name="wicketsTeamA">4</string>
+    <string name="oversTeamA"></string>
+    <string name="scoreTeamB">340</string>
+    <string name="wicketsTeamB">4</string>
+    <string name="oversTeamB"></string>
+    <string name="matchDesc">1st Test Day 1</string>
+    <string name="status">NZ won by 7 runs</string>
+
+
+</resources>
